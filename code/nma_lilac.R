@@ -26,7 +26,7 @@ library(knitr)
 ####################################
 # Load data
 ####################################
-df_raw <- read_excel("C:/Users/big_d/Dropbox/DS/Chronic_Migraine_dataset.xlsx")
+df_raw <- read_excel("C:/Users/Dropbox/DS/Chronic_Migraine_dataset.xlsx")
 
 ####################################
 # Data cleaning
@@ -298,3 +298,4 @@ cat("\nSaved figures:\n",
     " - table_league.tex\n",
     " - table_ranking_pscore.tex\n",
     " - table_base_vs_sensitivity.tex\n", sep = "")
+
