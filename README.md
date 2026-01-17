@@ -13,9 +13,3 @@ A frequentist network meta-analysis was conducted using placebo-controlled trial
 
 ## Software
 Analysis performed in R using the netmeta package.
-EOFgit add .
-git commit -m "Add chronic migraine NMA analysis code and report"
-
-git add .
-git commit -m "Add chronic migraine NMA analysis code and report"
-
